@@ -1,0 +1,16 @@
+{
+  "name": "vlad/kupi-iphone",
+  "description": "Vlad kupi iphone",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vlad",
+      "email": "vlad@vlad.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "*"
+  }
+}
