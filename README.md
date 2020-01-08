@@ -1,5 +1,9 @@
 # Vlad kupi iphone
 
+[![Latest Stable Version](https://poser.pugx.org/vlad-startsev/kupi-iphone/version)](https://packagist.org/packages/vlad-startsev/kupi-iphone)
+[![Total Downloads](https://poser.pugx.org/vlad-startsev/kupi-iphone/downloads)](https://packagist.org/packages/vlad-startsev/kupi-iphone)
+[![License](https://poser.pugx.org/vlad-startsev/kupi-iphone/license)](https://packagist.org/packages/vlad-startsev/kupi-iphone)
+
 ## Installation
 
 ```bash
