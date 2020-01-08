@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-composer require vlad/kupi-iphone
+composer require vlad_/kupi-iphone
 ```
 
 ## Usage
